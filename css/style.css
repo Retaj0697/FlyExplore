@@ -737,9 +737,11 @@ li{
 .sec5 > div img{
     width: 100%;
     height: 400px;
+    transition: 1s;
 }
 .sec5 > div img:hover{
     transform: translateZ(25px);
+    transition: 1s;
 }
 .sec5 > div span{
     display: block;
