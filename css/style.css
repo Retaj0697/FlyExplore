@@ -5,7 +5,7 @@
 }
 body {
     height: fit-content;
-    background-color: #CFE8F2;
+/*     background-color: #CFE8F2; */
     font-family: 'Nunito', sans-serif;
 }
 a{
@@ -426,7 +426,7 @@ li{
 }
 .sec2 .trips .div1 img{
     width: 100%;
-    height: 75%;
+    height: 85%;
 }
 .sec2 .trips .div1 a{
     padding: 10px 0;
@@ -465,7 +465,7 @@ li{
     display: flex; 
     position: absolute;
     left: 22%;
-    bottom: 30%;
+    bottom: 20%;
     z-index: 10;
 }
 .sec2 .trips .div1 .icon a {
@@ -508,7 +508,7 @@ li{
 .sec2 .trips > .r::after{
     content: "";
     width: 100%;
-    height: 75%;
+    height: 85%;
     position: absolute;
     top: 0;
     left: 0;
@@ -526,7 +526,7 @@ li{
 .sec2 .trips > .v::after{
     content: "";
     width: 100%;
-    height: 75%;
+    height: 85%;
     position: absolute;
     top: 0;
     left: 0;
@@ -544,7 +544,7 @@ li{
 .sec2 .trips > .l::after{
     content: "";
     width: 100%;
-    height: 75%;
+    height: 85%;
     position: absolute;
     top: 0;
     left: 0;
@@ -562,7 +562,7 @@ li{
 .sec2 .trips > .p::after{
     content: "";
     width: 100%;
-    height: 75%;
+    height: 85%;
     position: absolute;
     top: 0;
     left: 0;
@@ -956,7 +956,7 @@ li{
 }
 .recommend .city div img{
     width: 100%;
-    height: 75%;
+    height: 85%;
 }
 .recommend .city div a{
     padding: 10px 0;
@@ -995,7 +995,7 @@ li{
     display: flex; 
     position: absolute;
     left: 22%;
-    bottom: 30%;
+    bottom: 20%;
     z-index: 10;
 }
 .recommend .city div .icon a {
@@ -1041,7 +1041,7 @@ li{
     top: 0;
     left: 0;
     width: 100%;
-    height: 75%;
+    height: 85%;
     background: url("../images/Hamburg2.jpg");
     background-size: cover;
     background-position: center;
@@ -1062,7 +1062,7 @@ li{
     top: 0;
     left: 0;
     width: 100%;
-    height: 75%;
+    height: 85%;
     background: url("../images/n.jpg");
     background-size: cover;
     background-position: center;
@@ -1083,7 +1083,7 @@ li{
     top: 0;
     left: 0;
     width: 100%;
-    height: 75%;
+    height: 85%;
     background: url("../images/t.jpg");
     background-size: cover;
     background-position: center;
@@ -1104,7 +1104,7 @@ li{
     top: 0;
     left: 0;
     width: 100%;
-    height: 75%;
+    height: 85%;
     background: url("../images/barchlona2.jpg");
     background-size: cover;
     background-position: center;
